@@ -1,0 +1,30 @@
+{
+	"name": "json2csv",
+	"version": "1",
+	"homepage": "https://github.com/varijkapil13/json2csv",
+	"authors": [
+    "Varij Kapil"
+  ],
+	"description": "Bower build for zemirco/json2csv",
+	"moduleType": [
+    "node"
+  ],
+	"keywords": [
+    "json2csv",
+    "zemirco",
+    "viewer"
+  ],
+	"license": "BSD-2-Clause",
+	"main": [
+    "./lib/json2csv.js",
+  ],
+	"ignore": [
+    "**/.*",
+    "pdfjs",
+    "Gruntfile.js",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
