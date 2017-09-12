@@ -16,7 +16,7 @@
   ],
 	"license": "BSD-2-Clause",
 	"main": [
-    "./lib/json2csv.js",
+    "./bin/json2csv.js",
   ],
 	"ignore": [
     "**/.*",
